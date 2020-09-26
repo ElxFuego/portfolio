@@ -7,7 +7,7 @@ I believe my experience- as a Cadmatic administrator- with receiving bug reports
 
 # Tools and Skills
 
--SQL \n
+-SQL
 -C++
 -Java
 
