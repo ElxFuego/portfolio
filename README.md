@@ -8,34 +8,57 @@ I believe my experience- as a Cadmatic administrator- with receiving bug reports
 # Tools and Skills
 
 -SQL
+
 -C++
+
 -Java
 
 -MySQL
+
 -Dev-C++
+
 -Notepad ++
+
 -Postman
+
 -SoupUI
+
 -Jira
+
 -TestRail
+
 -Selenium WebDriver
 
+
 -troubleshooting
+
 -teamworking/working independently
+
 -success driven
+
 -conscientous worker
+
 
 -English C1 level
 
 # Certificates
+
 at the begining of November ;) - SDA Software Tester Certificate 
+
 at the begining of November ;) - ISTQB Foundation level
+
 -Cadmatic Administrator certificate- issued by Cadmatic OY
+
 -CAE certificate (English C1 level)- issued by University of Cambridge Local Examinations Syndicate
 
 # Courses
+
 -SDA Software Tester Course (ISTQB Foundation certificate, SQL, basics of Java, Selenium WebDriver. Used tools: MySQL, Postman, TestRail, IntelliJ IDEA, JIRA, SoapUI)
+
 -C++ Udemy online course
+
 -Java Udemy online course (in progress)
+
 -SQL Udemy online course
+
 -Cadmatic Administrator official training
