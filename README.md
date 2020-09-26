@@ -9,7 +9,7 @@ I believe my experience- as a Cadmatic administrator- with receiving bug reports
 
 -SQL
 
--C++
+-C++ (As a part of being Cadmatic administrator, I was writing and modifying C based scripts in Cadmatic)
 
 -Java
 
