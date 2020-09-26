@@ -13,6 +13,8 @@ I believe my experience- as a Cadmatic administrator- with receiving bug reports
 
 -Java
 
+-------
+
 -MySQL
 
 -Dev-C++
@@ -29,6 +31,7 @@ I believe my experience- as a Cadmatic administrator- with receiving bug reports
 
 -Selenium WebDriver
 
+-------
 
 -troubleshooting
 
@@ -38,6 +41,7 @@ I believe my experience- as a Cadmatic administrator- with receiving bug reports
 
 -conscientous worker
 
+-------
 
 -English C1 level
 
