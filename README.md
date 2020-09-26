@@ -1,7 +1,7 @@
 # Portfolio
 # About me
 
-My name is Bartek Wasiek. I graduated from Gdansk University of Technology, at the Faculty of Mechanical Engineering, with a master degree. During my work in marine industry I had a chance to work with Cadmatic (CAD software) as an administrator. It was time, I realise that working with programs and databases is much more fun than being Mechanical Engineer/Piping Designer. I've done some online courses on Udemy (C++, Java, SQL) but I felt it is not enough. I decided to take a shot- changing the job to one in the IT industry. To do so, I enrolled in Software Tester course provided by Software Development Academy to speed up that change.
+My name is Bartek Wasiek. I graduated from Gdansk University of Technology, at the Faculty of Mechanical Engineering, with a master degree. During my work in marine industry I had a chance to work with Cadmatic (CAD software - https://www.cadmatic.com/en/marine/) as an administrator. It was time, I realise that working with programs and databases is much more fun than being Mechanical Engineer/Piping Designer. I've done some online courses on Udemy (C++, Java, SQL) but I felt it is not enough. I decided to take a shot- changing the job to one in the IT industry. To do so, I enrolled in Software Tester course provided by Software Development Academy to speed up that change.
 
 I believe my experience- as a Cadmatic administrator- with receiving bug reports from internal client (Engineering department - approx. 50 people), managing internal program database, consulting any changes/updates (new tools, UI, etc.) regarding software, monitoring performance of the new tools implemented in the program and reporting bugs to the software vendor will be of use in the job of Software Tester.
 
