@@ -59,10 +59,10 @@ at the begining of November ;) - ISTQB Foundation level
 
 -SDA Software Tester Course (ISTQB Foundation certificate, SQL, basics of Java, Selenium WebDriver. Used tools: MySQL, Postman, TestRail, IntelliJ IDEA, JIRA, SoapUI)
 
--C++ Udemy online course
+-C++ Udemy online course (21.5h - C++ basics, OOP, polymorphism, fstream lib, pointers, STL)
 
--Java Udemy online course (in progress)
+-Java Udemy online course (in progress) (31h - Java basics, OOP, I/O streams, lambda expressions, Swing, collections, maps, Android Studio basics)
 
--SQL Udemy online course
+-SQL Udemy online course (5.5h - CRUD, aggregate functions, logic, relations)
 
 -Cadmatic Administrator official training
