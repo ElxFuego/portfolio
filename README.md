@@ -49,7 +49,7 @@ I believe my experience as a Cadmatic administrator with receiving bug reports f
 
 at the begining of November ;) - SDA Software Tester Certificate 
 
-at the begining of November ;) - ISTQB Foundation level
+at the begining of December ;) - ISTQB Foundation level
 
 -Cadmatic Administrator certificate- issued by Cadmatic OY
 
