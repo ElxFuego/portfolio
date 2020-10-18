@@ -57,7 +57,7 @@ at the begining of November ;) - ISTQB Foundation level
 
 # Courses
 
--SDA Software Tester Course (ISTQB Foundation certificate, SQL, basics of Java, Selenium WebDriver. Used tools: MySQL, Postman, TestRail, IntelliJ IDEA, JIRA, SoapUI)
+-SDA Software Tester Course (in progress) (ISTQB Foundation certificate, SQL, basics of Java, Selenium WebDriver. Used tools: MySQL, Postman, TestRail, IntelliJ IDEA, JIRA, SoapUI)
 
 -C++ Udemy online course (21.5h - C++ basics, OOP, polymorphism, fstream lib, pointers, STL)
 
