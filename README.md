@@ -47,7 +47,7 @@ I believe my experience as a Cadmatic administrator with receiving bug reports f
 
 # Certificates
 
-at the begining of November ;) - SDA Software Tester Certificate 
+- SDA Software Tester Certificate 
 
 at the begining of December ;) - ISTQB Foundation level
 
