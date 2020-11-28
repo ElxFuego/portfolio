@@ -49,7 +49,7 @@ I believe my experience as a Cadmatic administrator with receiving bug reports f
 
 -SDA Software Tester Certificate 
 
--ISTQB Foundation level
+-ISTQB Foundation level certificate
 
 -Cadmatic Administrator certificate- issued by Cadmatic OY
 
