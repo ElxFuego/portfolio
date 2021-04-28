@@ -1,4 +1,4 @@
-# Portfolio
+﻿# Portfolio
 # About me
 
 My name is Bartek Wasiek. I graduated from Gdansk University of Technology, at the Faculty of Mechanical Engineering, with a master degree. During my work in marine industry I had a chance to work with Cadmatic (CAD software - https://www.cadmatic.com/en/marine/) as an administrator. It was time, I realised that working with software and databases is much more fun than being Mechanical Engineer/Piping Designer. I've done some online courses on Udemy (C++, Java, SQL) but I felt it is not enough. I've decided to take a shot- changing the job to one in the IT industry. To do so, I enrolled in Software Tester course organised by Software Development Academy to speed up that change.
@@ -65,4 +65,4 @@ I believe my experience as a Cadmatic administrator with receiving bug reports f
 
 -SQL Udemy online course (5.5h - CRUD, aggregate functions, logic, relations)
 
--Cadmatic Administrator official training
+-Cadmatic Administrator Official Training
